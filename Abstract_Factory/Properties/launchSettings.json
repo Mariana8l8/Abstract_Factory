@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Abstract_Factory": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Development\\LABs\\FEP-22-Design-Patterns\\Abstract_Factory\\course.json"
+    }
+  }
+}
